@@ -125,7 +125,7 @@ hstspreload==2021.7.5
 html5lib==1.1
 httpcore==0.9.1
 httplib2==0.19.1
-httpx==0.13.3
+httpx==0.23.0
 humanfriendly==9.2
 hyperframe==5.2.0
 hypothesis==6.13.11
